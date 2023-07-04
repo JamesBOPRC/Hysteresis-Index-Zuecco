@@ -1,7 +1,7 @@
 ### Script for the computation of the hysteresis index by G. Zuecco
 ### last update: September 2015
 
-source("hysteresis_functions.r")
+source("Hysteresis_Functions.r")
 
 ### discarding the smallest value
 
