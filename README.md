@@ -6,6 +6,6 @@ Zuecco, G., Penna, D., Borga, M., and van Meerveld, H. J. (2016) A versatile ind
 A python translation by florianjehn is available here:
 https://github.com/florianjehn/Hysteresis-Index-Zuecco
 
-a Java script is available here:
+Java script is available here:
 https://www.geo.uzh.ch/en/units/h2k/Services/Hysteresis-index.html
 
